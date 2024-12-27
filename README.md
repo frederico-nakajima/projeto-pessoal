@@ -26,6 +26,7 @@ O design foi selecionado no **Dribbble** com ênfase na simplicidade e funcional
 
 ## 🚀 Funcionalidades
 
+- Mobile first.
 - Layout responsivo, garantindo compatibilidade com diferentes tamanhos de tela.
 - Estilização limpa e profissional.
 - Foco em acessibilidade e usabilidade.
@@ -34,9 +35,5 @@ O design foi selecionado no **Dribbble** com ênfase na simplicidade e funcional
 
 
 
-## 📄 Planejamento
 
-O planejamento completo e as notas de desenvolvimento estão disponíveis no [Notion](https://www.notion.so/544a373965a24088b9f2b0d25a38fd47?p=1690bdd25f4680cb8e79f1fc3393b906&showMoveTo=true).
-
----
 
