@@ -19,10 +19,10 @@ Este projeto é baseado em um design selecionado no **Dribbble**. O objetivo foi
 ## 🎨 Inspiração do Design
 
 O design foi selecionado no **Dribbble** com ênfase na simplicidade e funcionalidade. A ideia principal é exercitar habilidades fundamentais de front-end replicando e adaptando ligeiramente o conceito original.
-[👉 Confira o planejamento do projeto no Notion](https://dribbble.com/shots/15870670-Simple-Form)
+[👉 Confira o design que deu inspiração e origem ao projeto ](https://dribbble.com/shots/15870670-Simple-Form)
 
 ---
----
+
 
 ## 🚀 Funcionalidades
 
