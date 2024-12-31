@@ -14,7 +14,7 @@ body{
 }
 
 #app{
-  max-width: 30.0rem;
+  max-width: 25.0rem;
   height: 65.5rem;
   background-color: #ffffff;
   border-radius: 1.5rem;
@@ -75,14 +75,14 @@ a{
   cursor: pointer;
 }
 
-.image{
+#image{
   display: flex;
   flex: 1;
   
 }
 
 img{
-  max-width: 30.0rem;
+  width: 25.0rem;
   height: 25.0rem;
   object-fit: cover;
   border-radius:1.5rem 1.5rem 0 0;
@@ -112,13 +112,13 @@ img{
    
   
   form{
-    max-width: 30.0rem;
+    width: 30.0rem;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     gap: 1.5rem;
-    float:left;
+   
   }
    
 
@@ -163,7 +163,7 @@ img{
   }
   
   img{
-    max-width: 30.0rem;
+    width: 30.0rem;
     height: 40.0rem;
     object-fit: cover;
     border-radius:0 1.5rem 1.5rem 0;
@@ -179,7 +179,7 @@ img{
   }
 
   #app{
-    max-width:90.0rem;
+    max-width:70.0rem;
     height: 60.0rem;
     background-color: #ffffff;
     border-radius: 1.5rem;
@@ -193,7 +193,7 @@ img{
    
   
   form{
-    max-width:45.0rem;
+    width:35.0rem;
     height: 60.0rem;
     display: flex;
     flex-direction: column;
@@ -241,14 +241,14 @@ img{
   #image{
     display: flex;
     flex: 1;
-    
+  
   }
   
   img{
-    width:45.0rem;
+    width:35.0rem;
     height: 60.0rem;
     object-fit: cover;
-    border-radius:0 15px 15px 0;
-    float:right;
+    border-radius:0 1.5rem 1.5rem 0;
+   
   }
 }
